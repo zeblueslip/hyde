@@ -3,8 +3,8 @@ highlighter:      rouge
 markdown:         kramdown
 
 # Permalinks
-#permalink:        pretty
-permalink:        hyde/:categories/:year/:month/:day/:title/
+permalink:        pretty
+#permalink:        hyde/:categories/:year/:month/:day/:title/
 
 # Setup
 title:            Hyde
